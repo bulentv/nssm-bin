@@ -1,9 +1,8 @@
 {
   "name": "nssm-bin",
-  "version": "2.24.101",
+  "version": "2.24.102",
   "description": "NSSM Binary",
   "main": "nssm.exe",
   "repository": "git@github.com:bulentv/nssm-bin.git",
-  "author": "Iain Patterson",
   "license": "MIT"
 }
